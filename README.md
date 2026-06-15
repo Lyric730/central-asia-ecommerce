@@ -12,9 +12,9 @@
 
 | 顺序 | 文件 | 用途 |
 |---:|---|---|
-| 1 | [01-market-research-and-glossary.md](docs/central-asia-ecommerce-mvp/01-market-research-and-glossary.md) | 集中版调研报告 + 名词解释 |
-| 2 | [02-context-collection-table.md](docs/central-asia-ecommerce-mvp/02-context-collection-table.md) | 一张上下文采集总表 |
-| 3 | [03-zero-to-one-execution-report.md](docs/central-asia-ecommerce-mvp/03-zero-to-one-execution-report.md) | 从 0 开始的具体执行报告 |
+| 1 | [01-市场调研与名词解释.md](docs/调研/01-市场调研与名词解释.md) | 集中版调研报告 + 名词解释 |
+| 2 | [02-上下文采集总表.md](docs/调研/02-上下文采集总表.md) | 一张上下文采集总表 |
+| 3 | [03-从0开始执行报告.md](docs/调研/03-从0开始执行报告.md) | 从 0 开始的具体执行报告 |
 
 ## 当前默认结论
 
@@ -31,7 +31,7 @@
 
 ## 旧资料归档
 
-旧目录 [docs/central-asia-ecommerce-mvp-sop](docs/central-asia-ecommerce-mvp-sop) 保留为调研素材归档，里面有来源登记、分模块笔记和 CSV 模板。第一阅读入口不要从旧目录开始。
+旧版分散材料已移到 [docs/归档/旧版分散笔记](docs/归档/旧版分散笔记)。那里只作为证据、模板和历史材料归档，第一阅读入口不要从归档开始。
 
 ## 执行前复核
 

@@ -1,14 +1,14 @@
 # 中亚五国出海电商 MVP
 
-这个目录是当前主入口。旧目录 `docs/central-asia-ecommerce-mvp-sop/` 保留为调研素材归档，不作为第一阅读入口。
+这个目录是当前主入口。旧版分散材料在 `docs/归档/旧版分散笔记/`，只作为调研素材归档，不作为第一阅读入口。
 
 ## 先读哪份
 
 | 顺序 | 文件 | 用途 |
 |---:|---|---|
-| 1 | [01-market-research-and-glossary.md](01-market-research-and-glossary.md) | 集中版调研报告 + 名词解释 |
-| 2 | [02-context-collection-table.md](02-context-collection-table.md) | 只问必要上下文的一张总表 |
-| 3 | [03-zero-to-one-execution-report.md](03-zero-to-one-execution-report.md) | 没有你们上下文时，先按这版从 0 执行 |
+| 1 | [01-市场调研与名词解释.md](01-市场调研与名词解释.md) | 集中版调研报告 + 名词解释 |
+| 2 | [02-上下文采集总表.md](02-上下文采集总表.md) | 只问必要上下文的一张总表 |
+| 3 | [03-从0开始执行报告.md](03-从0开始执行报告.md) | 没有你们上下文时，先按这版从 0 执行 |
 
 ## 当前默认结论
 
@@ -22,4 +22,3 @@
 | 先做收款 | 本地合作方 Kaspi Pay/payment link/银行转账 |
 | 先做履约 | 中国小批量备货到 Almaty 节点，再本地派送/自提 |
 | 不做 | 带电池、蓝牙/Wi-Fi/RF、车充、充电宝、小家电、液体、香薰、功能性汽配 |
-
