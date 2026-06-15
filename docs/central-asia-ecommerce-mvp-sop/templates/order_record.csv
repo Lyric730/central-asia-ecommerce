@@ -1,0 +1,2 @@
+order_id,date,country,channel,sku,customer_is_stranger,payment_type,payment_amount,payment_proof_saved,shipping_method,tracking_or_delivery_proof,delivered,after_sales_status,refund_or_reship_cost,p0_valid,notes
+,,,,,,,,,,,,,,,
